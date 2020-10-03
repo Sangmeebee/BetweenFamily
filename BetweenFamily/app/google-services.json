@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91567331007",
+    "firebase_url": "https://betweenfamily-76b19.firebaseio.com",
+    "project_id": "betweenfamily-76b19",
+    "storage_bucket": "betweenfamily-76b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91567331007:android:db97cdf203a7ff18bfd80a",
+        "android_client_info": {
+          "package_name": "com.sangmee.betweenfamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91567331007-usgnc74h22din991v6fji62gur1ioa92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBblHRK5ZDSy5NBlxrhgyyVqS1Humef9lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91567331007-usgnc74h22din991v6fji62gur1ioa92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
